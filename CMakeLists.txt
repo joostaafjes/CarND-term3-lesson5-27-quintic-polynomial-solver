@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.13)
+project(CarND_term3_lesson5_27_quintic_polynomial_solver)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(CarND_term3_lesson5_27_quintic_polynomial_solver main.cpp grader.h)
